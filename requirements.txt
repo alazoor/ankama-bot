@@ -13,5 +13,4 @@ pyscrypt
 structlog
 cryptography
 
-# Optional utilities
 pycryptodome
