@@ -1,7 +1,17 @@
+# Flask (Render)
 flask
+gunicorn
+
+# HTTP / parsing
 curl_cffi
-beautifulsoup4
 requests
+beautifulsoup4
+
+# AWS WAF Solver dependencies
 rnet
 pyscrypt
 structlog
+cryptography
+
+# Optional utilities
+pycryptodome
